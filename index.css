@@ -25,9 +25,23 @@ body {
     margin: 0;
     padding: 2rem 0;
     width: 100%;
-    background: #FFBA00;
+    background:burlywood;
     font-family: 'Inconsolata', monospace;
     text-align: center;
+}
+
+footer {
+    margin: 0;
+    padding: 2em; 
+
+}
+
+header {
+    margin:0;
+    margin-left: 2rem;
+    width: 90%;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 #gallery {
@@ -35,4 +49,17 @@ body {
     flex-flow: row wrap;
     justify-content: center;
     align-items: flex-start;
+}
+
+nav {
+    background: lightskyblue;
+    list-style: none;
+    padding: 5px;
+    display: flex;
+}
+
+li {
+    padding: 20px;
+    background: red;
+    margin: 20px;   
 }
