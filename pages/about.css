@@ -1,0 +1,18 @@
+.valley h1 {
+    color: brown;
+}
+
+p {
+    padding: 10px;
+}
+
+.valley h3 {
+    position: relative;
+    top: 520px;
+    left: 120px;
+}
+
+.dinosaur {
+    width: 50px;
+    height: 100%;
+}
