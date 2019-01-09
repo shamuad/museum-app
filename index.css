@@ -51,6 +51,20 @@ a:-webkit-any-link {
     text-decoration: underline;
 }
 
+footer {
+    margin: 0;
+    padding: 2em; 
+
+}
+
+header {
+    margin:0;
+    margin-left: 2rem;
+    width: 90%;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
 #gallery {
     display: flex;
     flex-flow: row wrap;
