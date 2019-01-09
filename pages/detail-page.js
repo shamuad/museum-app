@@ -1,5 +1,8 @@
 function submitComment() {
-    const inputField = document.getElementById('name');
+    console.log("Hello");
+
+
+    /* const inputField = document.getElementById('name');
     const name = inputField.value;
     console.log(name);
     const textArea = document.getElementById('msg');
@@ -15,7 +18,7 @@ function submitComment() {
     comment.classList.add(comment);
     comment.appendChild(h3);
     comment.appendChild(p);
-    console.log(comment);
+    console.log(comment); */
 
 } 
 
